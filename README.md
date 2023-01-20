@@ -3,6 +3,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Prerequisite Setup
+Please run `yarn version check` to check if yarn is installed 
+If yarn start does not work, please run `npm install --global yarn`  
+If your system requires npm installation, please run `npm install -g npm`
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -14,9 +19,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-If yarn start does not work, please run `npm install --global yarn`  
-If your system requires npm installation, please run `npm install -g npm` 
 
 ### `yarn test`
 
