@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Prerequisite Setup
 Please run `yarn version check` to check if yarn is installed \
-If yarn start does not work, please run `npm install --global yarn`\ 
+If yarn start does not work, please run `npm install --global yarn`to install yarn \ 
 If your system requires npm installation, please run `npm install -g npm`
 
 ## Available Scripts
